@@ -1,0 +1,24 @@
+{
+  "name": "learning-test-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/mocha/bin/_mocha || exit  0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdrianaP00/learning-test-Jest.git"
+  },
+  "author": "Adriana Piccolo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AdrianaP00/learning-test-Jest/issues"
+  },
+  "homepage": "https://github.com/AdrianaP00/learning-test-Jest#readme",
+  "devDependencies": {
+    "chai": "*",
+    "mocha": "*",
+    "nodemon": "*"
+  }
+}
